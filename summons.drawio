@@ -7,7 +7,7 @@
         <mxCell id="n5Uz14gswoLrWk821ix5-1" value="Wraith Lord&lt;div&gt;D3&lt;/div&gt;&lt;div&gt;Conjuration 8&lt;/div&gt;&lt;div&gt;Call Wraith Lord D5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-2" target="n5Uz14gswoLrWk821ix5-41">
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-2" target="n5Uz14gswoLrWk821ix5-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQO_KjqfBnGGEXUe7-vQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-2" target="n5Uz14gswoLrWk821ix5-13">
@@ -19,8 +19,11 @@
         <mxCell id="n5Uz14gswoLrWk821ix5-3" value="&lt;div&gt;Creature Name&lt;/div&gt;&lt;div&gt;Paths [Path variants]&lt;/div&gt;&lt;div&gt;Research&lt;/div&gt;&lt;div&gt;Spell name &amp;amp; Casting Paths&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-4" target="n5Uz14gswoLrWk821ix5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-4" value="&lt;div&gt;Ice Devil&lt;/div&gt;&lt;div&gt;W3 [+S2] [+D3]&lt;/div&gt;&lt;div&gt;Blood 6&lt;/div&gt;&lt;div&gt;Bind Ice Devil B3W3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-5" value="Spectral Mage&lt;div&gt;D1 +2[W/S/D/G]&lt;/div&gt;&lt;div&gt;Conjuration 6&lt;/div&gt;&lt;div&gt;Summon Spectre D3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
@@ -75,8 +78,16 @@
         <mxCell id="n5Uz14gswoLrWk821ix5-19" value="Queen of Storms&lt;div&gt;A5&lt;/div&gt;&lt;div&gt;Conjuration 8&lt;/div&gt;&lt;div&gt;Queen of Elemental Air A5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ADADAD;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="90" y="860" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-20" target="n5Uz14gswoLrWk821ix5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-16" value="+2W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQO_KjqfBnGGEXUe7-vQ-15">
+          <mxGeometry x="0.24" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-20" value="Sea King&lt;div&gt;W3&lt;/div&gt;&lt;div&gt;Conjuration 6&lt;/div&gt;&lt;div&gt;Sea King&#39;s Court W4&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="100" y="360" width="170" height="60" as="geometry" />
+          <mxGeometry x="110" y="340" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-21" value="Lamia Queen&lt;div&gt;D2N1 +2[W/D/N/B]&lt;/div&gt;&lt;div&gt;Conjuration 6&lt;/div&gt;&lt;div&gt;Contact Lamia Queen N5D2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="170" height="60" as="geometry" />
@@ -111,8 +122,25 @@
         <mxCell id="n5Uz14gswoLrWk821ix5-33" value="Unfrozen Mage&lt;div&gt;D1 +4[D/W/E @50%]&lt;/div&gt;&lt;div&gt;Enchantment 6&lt;/div&gt;&lt;div&gt;Hidden in Snow W3D1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-160" y="370" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-34" target="n5Uz14gswoLrWk821ix5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-34" value="Naiad&lt;div&gt;W3N3&lt;/div&gt;&lt;div&gt;Conjuration 5&lt;/div&gt;&lt;div&gt;Contact Naiad W3N1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-160" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-35" target="n5Uz14gswoLrWk821ix5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-35" target="n5Uz14gswoLrWk821ix5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-35" target="n5Uz14gswoLrWk821ix5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-23" value="+2D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQO_KjqfBnGGEXUe7-vQ-22">
+          <mxGeometry x="0.1555" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n5Uz14gswoLrWk821ix5-35" value="&lt;div&gt;Kokythiad&lt;/div&gt;&lt;div&gt;W3D3&lt;/div&gt;&lt;div&gt;Conjuration 6&lt;/div&gt;&lt;div&gt;Streams from Hades W4D1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-200" y="550" width="170" height="60" as="geometry" />
@@ -132,7 +160,7 @@
         <mxCell id="n5Uz14gswoLrWk821ix5-40" value="Released Sage&lt;div&gt;E1D2 +2[E/D/S @50%]&lt;/div&gt;&lt;div&gt;Enchantment 6&lt;/div&gt;&lt;div&gt;Hidden Underneath E3D1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="750" y="680" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-41" target="n5Uz14gswoLrWk821ix5-13">
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-41" target="n5Uz14gswoLrWk821ix5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQO_KjqfBnGGEXUe7-vQ-2" value="+2F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQO_KjqfBnGGEXUe7-vQ-1">
@@ -172,6 +200,17 @@
         </mxCell>
         <mxCell id="JQO_KjqfBnGGEXUe7-vQ-13" value="D4B4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="n5Uz14gswoLrWk821ix5-34" target="n5Uz14gswoLrWk821ix5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202" y="410" as="sourcePoint" />
+            <mxPoint x="198" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQO_KjqfBnGGEXUe7-vQ-18" value="+2W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQO_KjqfBnGGEXUe7-vQ-17">
+          <mxGeometry x="0.24" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
